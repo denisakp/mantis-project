@@ -1,0 +1,3 @@
+[submodule "mantis-api"]
+	path = mantis-api
+	url = git@github.com:denisakp/mantis-api.git
